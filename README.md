@@ -1,4 +1,4 @@
-# Flutter Templates
+# Flutter Templates - MIT License
 Completely free for everyone.
 Built with Flutter.
 
